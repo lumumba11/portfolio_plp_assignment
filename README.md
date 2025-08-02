@@ -102,6 +102,7 @@ You can edit:
 * **Netlify / Vercel**
 
   * Drag and drop the folder into their UI or connect to GitHub.
+  * NB// I have deployed this project through vercel the link is  https://lumumba045.vercel.app
 
 * **Locally**
 
